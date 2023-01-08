@@ -1,3 +1,5 @@
 body {
-  background-image: url("img/zzoraeng-e.jpg");
+  height: 100vh;
+  background-image: url("img/zzoraeng-e.jpg") no-repeat center;
+  background-size: cover;
 }
